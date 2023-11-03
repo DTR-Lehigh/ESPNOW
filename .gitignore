@@ -30,3 +30,6 @@ lib/
 
 # Other
 .env
+
+# Python
+*.pyc
